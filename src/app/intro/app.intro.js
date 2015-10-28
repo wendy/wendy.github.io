@@ -3,13 +3,6 @@ angular.module('app.intro', [])
     return {
       restrict: 'E',
       scope: {},
-      templateUrl: 'src/app/intro/intro.tpl.html',
-      controller: 'IntroCtrl',
-      controllerAs: 'intro'      
+      templateUrl: 'src/app/intro/intro.tpl.html', 
     }
-  })
-  .controller('IntroCtrl', function IntroCtrl() {
-    var intro = this;
-
-    
   });
