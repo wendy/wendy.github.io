@@ -1,5 +1,6 @@
 angular.module('app', [
   'app.intro',
   'app.about',
-  'app.project'
+  'app.project',
+  'app.contact'
   ]);
