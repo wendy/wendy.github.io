@@ -111,7 +111,7 @@ a {
   transition: background .3s ease-in-out;
 }
 
-.scroll:hover {
+.scroll:hover, .contactIcon:hover {
     -webkit-animation-name: pulse;
     -moz-animation-name: pulse;
     -webkit-animation-duration: 1.5s;
