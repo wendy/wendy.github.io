@@ -161,11 +161,10 @@ a {
 
 .aboutme {
   box-sizing: border-box;
-  padding: 2%;
+  padding: 3em;
   width: 90%;
   margin: 0 auto;
   text-align: center;
-  margin-top: 5%;
 }
 
 .profile {
